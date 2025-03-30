@@ -9,3 +9,8 @@ https://www.virustotal.com/gui/file/9066fcd39c4f8eeadeb045a0b9f34c8a399d80fb8299
 Preview:
 
 https://imgur.com/a/ACr8vnd
+
+Virustotal logs:
+
+Matches rule PyInstaller from ruleset PyInstaller at https://github.com/bartblaze/Yara-rules by @bartblaze
+Identifies executable converted using PyInstaller. This rule by itself does NOT necessarily mean the detected file is malicious. - 18 minutes ago
