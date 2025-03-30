@@ -14,3 +14,5 @@ Virustotal logs:
 
 Matches rule PyInstaller from ruleset PyInstaller at https://github.com/bartblaze/Yara-rules by @bartblaze
 Identifies executable converted using PyInstaller. This rule by itself does NOT necessarily mean the detected file is malicious. - 18 minutes ago
+
+THIS DOES NOT USE CHROME NOR ANY OTHER BROWSER
