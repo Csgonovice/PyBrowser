@@ -4,3 +4,8 @@ This is a fully working python web browser which is coded with python, python is
 WARNING, THE EXE FILE IS FLAGGED AS MALWARE ON VIRUSTOTAL, IT IS A FALSE POSITIVE, IF YOU ARE SCARED, DOWNLOAD THE SOURCE CODE AND YOU WILL FIND THE UNCOMPILED PYTHON FILE WHICH IS THE SAME AS THE EXE EXCEPT IT REQUIRES PYTHON, YOU CAN LOOK AT ITS CODE.
 
 https://www.virustotal.com/gui/file/9066fcd39c4f8eeadeb045a0b9f34c8a399d80fb829914fd63ee29b59bcf4d19/community
+
+
+Preview:
+
+https://imgur.com/a/ACr8vnd
