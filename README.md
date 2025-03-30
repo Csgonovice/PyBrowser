@@ -16,3 +16,10 @@ Matches rule PyInstaller from ruleset PyInstaller at https://github.com/bartblaz
 Identifies executable converted using PyInstaller. This rule by itself does NOT necessarily mean the detected file is malicious. - 18 minutes ago
 
 THIS DOES NOT USE CHROME NOR ANY OTHER BROWSER
+
+File Analytics:
+
+File Size 106.2MB File Type Exe Upload Date 3/30/2025 4:05PM
+
+File Contents: PyBrowse.exe/PyBrowse.py
+
